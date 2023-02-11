@@ -10,7 +10,7 @@ Enthusiastic engineer with over 2+ years of professional experience in web and m
 
 - 🌍 I'm based in Banepa, Nepal
 - ✉️ You can contact me at [makaidivya@gmail.com](mailto:makaidivya@gmail.com)
-- 🚀 I'm currently working on [OpenProsper](https://www.openprosper.com) & [OJAS Digital](https://www.ojasdigitalnepal.com)
+- 🚀 I'm currently working on [OpenProsper](https://www.openprosper.com), [OJAS Digital](https://www.ojasdigitalnepal.com) and [Moonpad](https://www.moonpad.com)
 - 🧠 I'm learning to walk in life
 - 🤝 I'm open to collaborate
 
@@ -51,6 +51,7 @@ src="https://img.shields.io/github/followers/divyaswormakai?logo=github&style=fo
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
+ <a href="https://fastify.io/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/F/fastify-logo-4FA5E177B6-seeklogo.com.png" width="36" height="36" alt="Fastify" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
