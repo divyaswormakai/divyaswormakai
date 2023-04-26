@@ -14,9 +14,7 @@ Enthusiastic engineer with over 2+ years of professional experience in web and m
 - 🧠 I'm learning to walk in life
 - 🤝 I'm open to collaborate
 
-<a href="https://www.twitter.com/makaidivya" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/makaidivya?logo=twitter&style=for-the-badge&color=3382ed&labelColor=27272a"
-/></a><a href="https://www.github.com/divyaswormakai" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/divyaswormakai" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/divyaswormakai?logo=github&style=for-the-badge&color=3382ed&labelColor=27272a" /></a>
 
 ### Skills
