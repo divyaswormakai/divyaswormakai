@@ -10,7 +10,7 @@ Enthusiastic engineer with over 2+ years of professional experience in web and m
 
 - 🌍 I'm based in Banepa, Nepal
 - ✉️ You can contact me at [makaidivya@gmail.com](mailto:makaidivya@gmail.com)
-- 🚀 I'm currently working on [OpenProsper](https://www.openprosper.com), [OJAS Digital](https://www.ojasdigitalnepal.com) and [Moonpad](https://www.moonpad.com)
+- 🚀 I'm currently working on [ProsperCircle](https://www.prospercircle.com), [Moonpad](https://www.moonpad.com) and [Upgiant](https://www.upgiant.com)
 - 🧠 I'm learning to walk in life
 - 🤝 I'm open to collaborate
 
