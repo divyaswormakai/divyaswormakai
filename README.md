@@ -36,7 +36,6 @@ src="https://img.shields.io/github/followers/divyaswormakai?logo=github&style=fo
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" width="36" height="36" alt="Babel" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
@@ -83,7 +82,5 @@ src="https://img.shields.io/github/followers/divyaswormakai?logo=github&style=fo
 <a href="http://www.github.com/divyaswormakai"><img src="https://github-readme-stats.vercel.app/api?username=divyaswormakai&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=eeeeee&hide_border=true&show_icons=true" alt="divyaswormakai's GitHub stats" /></a>
 
 <a href="http://www.github.com/divyaswormakai"><img src="https://github-readme-streak-stats.herokuapp.com/?user=divyaswormakai&stroke=000000&background=eeeeee&ring=3382ed&fire=3382ed&currStreakNum=000000&currStreakLabel=3382ed&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
-
-<a href="http://www.github.com/divyaswormakai"><img src="https://activity-graph.herokuapp.com/graph?username=divyaswormakai&bg_color=eeeeee&color=000000&line=3382ed&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/divyaswormakai" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyaswormakai&langs_count=10&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=eeeeee&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
