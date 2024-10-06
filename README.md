@@ -1,16 +1,16 @@
 # Hi 👋 My name is Divyaswor Makai Shrestha
 
-## Full Stack Web Developer | Mobile Application Developer | Software Engineer
+## Full Stack Web Developer | Front End Developer | Software Engineer
 
 ```
  A developer by work and heart.
 ```
 
-Enthusiastic engineer with over 2+ years of professional experience in web and mobile application development. Passionate to grow and help team grow along with him.
+Enthusiastic engineer with over 4+ years of professional experience in web and mobile application development. Passionate to grow and help team grow together.
 
 - 🌍 I'm based in Banepa, Nepal
-- ✉️ You can contact me at [makaidivya@gmail.com](mailto:makaidivya@gmail.com)
-- 🚀 I'm currently working on [ProsperCircle](https://www.prospercircle.com), [Moonpad](https://www.moonpad.com) and [Upgiant](https://www.upgiant.com)
+- ✉️ You can contact me at [makaidivyaswor@gmail.com](mailto:makaidivyaswor@gmail.com)
+- 🚀 I'm currently working on [WebAtlas](https://www.webatlas.com), [Moonpad](https://www.moonpad.com) and [Upgiant](https://www.upgiant.com)
 - 🧠 I'm learning to walk in life
 - 🤝 I'm open to collaborate
 
